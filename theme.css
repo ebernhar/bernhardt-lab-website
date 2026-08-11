@@ -74,13 +74,13 @@ header.site{
   text-decoration:none;
 }
 .brand .mark{
-  width:58px;
+  width:auto;
   height:58px;
   flex:none;
   display:block;
 }
 @media (max-width:880px){
-  .brand .mark{width:46px; height:46px;}
+  .brand .mark{height:46px;}
 }
 .brand .text{
   display:flex;
