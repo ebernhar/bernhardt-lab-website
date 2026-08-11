@@ -540,7 +540,7 @@ section.tight{padding-top:0;}
   gap:18px;
   align-items:flex-start;
 }
-.entry-list .entry-thumb{width:120px; height:84px; flex:none;}
+.entry-list .entry-thumb{width:240px; height:168px; flex:none;}
 .entry-list .entry-thumb .photo-slot{padding:8px; gap:4px;}
 .entry-list .entry-thumb .slot-label{font-size:10.5px;}
 .entry-list .entry-thumb .slot-spec{display:none;}
@@ -548,7 +548,7 @@ section.tight{padding-top:0;}
 .entry-list .entry-text{flex:1; min-width:0;}
 @media (max-width:600px){
   .entry-list.with-thumbs li{flex-direction:column;}
-  .entry-list .entry-thumb{width:100%; height:110px;}
+  .entry-list .entry-thumb{width:100%; height:200px;}
 }
 .entry-list .year-head{
   font-family:var(--serif);
