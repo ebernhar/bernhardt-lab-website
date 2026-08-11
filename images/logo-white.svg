@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <!-- Bernhardt Lab emblem, reversed for dark backgrounds -->
+  <ellipse cx="200" cy="160" rx="188" ry="148" fill="none" stroke="#ffffff" stroke-width="5"/>
+  <ellipse cx="200" cy="160" rx="176" ry="136" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.55"/>
+
+  <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200,70 L200,250" stroke-width="4"/>
+    <path d="M200,150 C200,130 170,120 140,90" stroke-width="4"/>
+    <path d="M140,90 C126,76 112,68 96,58" stroke-width="2.5"/>
+    <path d="M140,90 C130,72 128,58 122,40" stroke-width="2.5"/>
+    <path d="M200,150 C200,125 195,108 190,80" stroke-width="4"/>
+    <path d="M190,80 C186,62 190,48 186,30" stroke-width="2.5"/>
+    <path d="M200,150 C200,130 230,120 260,90" stroke-width="4"/>
+    <path d="M260,90 C274,76 288,68 304,58" stroke-width="2.5"/>
+    <path d="M260,90 C270,72 272,58 278,40" stroke-width="2.5"/>
+    <path d="M200,150 C200,125 205,108 210,80" stroke-width="4"/>
+    <path d="M210,80 C214,62 210,48 214,30" stroke-width="2.5"/>
+
+    <path d="M200,170 C200,190 172,202 144,226" stroke-width="4"/>
+    <path d="M144,226 C124,240 108,248 84,262" stroke-width="2.5"/>
+    <path d="M144,226 C130,238 118,248 106,264" stroke-width="2"/>
+    <path d="M200,170 C200,196 196,214 192,240" stroke-width="4"/>
+    <path d="M192,240 C190,254 194,264 190,278" stroke-width="2.5"/>
+    <path d="M200,170 C200,190 228,202 256,226" stroke-width="4"/>
+    <path d="M256,226 C276,240 292,248 316,262" stroke-width="2.5"/>
+    <path d="M256,226 C270,238 282,248 294,264" stroke-width="2"/>
+    <path d="M200,170 C200,196 204,214 208,240" stroke-width="4"/>
+    <path d="M208,240 C210,254 206,264 210,278" stroke-width="2.5"/>
+  </g>
+
+  <text x="200" y="168" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', serif" font-size="30" letter-spacing="2" fill="#ffffff" font-weight="600">BERNHARDT LAB</text>
+</svg>
